@@ -1,0 +1,19 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "user-select",
+          "scale",
+          "-webkit-text-size-adjust"
+        ]
+      }
+    ],
+    "no-inline-styles": "off",
+    "typescript-config/consistent-casing": "off"
+  }
+}
