@@ -1,5 +1,5 @@
 # TecnoShop
-# Ecommerce de productos recnologicos
+# Ecommerce de productos tecnologicos
 
 ## Descripción
 Este es un proyecto de aplicación de e-commerce para productos tecnológicos.
